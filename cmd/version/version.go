@@ -141,14 +141,14 @@ func CheckVersion(ctx context.Context) {
 	}
 	fmt.Printf("yours:  %-13s\n", vCurrent)
 	printVersion(
-		"latest",
+		"dernière",
 		"https://downloads.rclone.org/",
 	)
 	printVersion(
 		"beta",
 		"https://beta.rclone.org/",
 	)
-	if strings.HasSuffix(fs.Version, "-DEV") {
+	if strings.HasSuffix(fs.Version, "-DEV (nerd you are !)") {
 		fmt.Println("Your version is compiled from git so comparisons may be wrong.")
 	}
 }
