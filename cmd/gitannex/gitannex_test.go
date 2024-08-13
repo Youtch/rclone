@@ -14,13 +14,13 @@ import (
 
 	// Without this import, the local filesystem backend would be unavailable.
 	// It looks unused, but the act of importing it runs its `init()` function.
-	_ "github.com/rclone/rclone/backend/local"
+	_ "github.com/Youtch/rclone/backend/local"
 
-	"github.com/rclone/rclone/fs"
-	"github.com/rclone/rclone/fs/cache"
-	"github.com/rclone/rclone/fs/config"
-	"github.com/rclone/rclone/fs/config/configfile"
-	"github.com/rclone/rclone/fstest/mockfs"
+	"github.com/Youtch/rclone/fs"
+	"github.com/Youtch/rclone/fs/cache"
+	"github.com/Youtch/rclone/fs/config"
+	"github.com/Youtch/rclone/fs/config/configfile"
+	"github.com/Youtch/rclone/fstest/mockfs"
 
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"

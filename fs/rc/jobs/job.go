@@ -11,11 +11,11 @@ import (
 	"time"
 
 	"github.com/google/uuid"
-	"github.com/rclone/rclone/fs"
-	"github.com/rclone/rclone/fs/accounting"
-	"github.com/rclone/rclone/fs/cache"
-	"github.com/rclone/rclone/fs/filter"
-	"github.com/rclone/rclone/fs/rc"
+	"github.com/Youtch/rclone/fs"
+	"github.com/Youtch/rclone/fs/accounting"
+	"github.com/Youtch/rclone/fs/cache"
+	"github.com/Youtch/rclone/fs/filter"
+	"github.com/Youtch/rclone/fs/rc"
 )
 
 // Fill in these to avoid circular dependencies

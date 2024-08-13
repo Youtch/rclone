@@ -8,9 +8,9 @@ import (
 	"os"
 	"strings"
 
-	"github.com/rclone/rclone/cmd"
-	"github.com/rclone/rclone/fs/config/flags"
-	"github.com/rclone/rclone/fs/operations"
+	"github.com/Youtch/rclone/cmd"
+	"github.com/Youtch/rclone/fs/config/flags"
+	"github.com/Youtch/rclone/fs/operations"
 	"github.com/spf13/cobra"
 )
 

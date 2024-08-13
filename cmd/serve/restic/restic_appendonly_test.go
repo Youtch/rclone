@@ -9,8 +9,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/rclone/rclone/cmd"
-	"github.com/rclone/rclone/fs/config/configfile"
+	"github.com/Youtch/rclone/cmd"
+	"github.com/Youtch/rclone/fs/config/configfile"
 	"github.com/stretchr/testify/require"
 )
 

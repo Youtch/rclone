@@ -9,8 +9,8 @@ package cmount
 import (
 	"errors"
 
-	"github.com/rclone/rclone/cmd/mountlib"
-	"github.com/rclone/rclone/vfs"
+	"github.com/Youtch/rclone/cmd/mountlib"
+	"github.com/Youtch/rclone/vfs"
 )
 
 func init() {

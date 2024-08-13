@@ -6,12 +6,12 @@ import (
 	"path/filepath"
 	"testing"
 
-	_ "github.com/rclone/rclone/backend/drive"
-	_ "github.com/rclone/rclone/backend/local"
-	_ "github.com/rclone/rclone/backend/s3"
-	_ "github.com/rclone/rclone/backend/swift"
-	"github.com/rclone/rclone/fstest"
-	"github.com/rclone/rclone/fstest/fstests"
+	_ "github.com/Youtch/rclone/backend/drive"
+	_ "github.com/Youtch/rclone/backend/local"
+	_ "github.com/Youtch/rclone/backend/s3"
+	_ "github.com/Youtch/rclone/backend/swift"
+	"github.com/Youtch/rclone/fstest"
+	"github.com/Youtch/rclone/fstest/fstests"
 )
 
 var defaultOpt = fstests.Opt{

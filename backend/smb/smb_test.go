@@ -4,8 +4,8 @@ package smb_test
 import (
 	"testing"
 
-	"github.com/rclone/rclone/backend/smb"
-	"github.com/rclone/rclone/fstest/fstests"
+	"github.com/Youtch/rclone/backend/smb"
+	"github.com/Youtch/rclone/fstest/fstests"
 )
 
 // TestIntegration runs integration tests against the remote

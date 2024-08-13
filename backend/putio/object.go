@@ -11,9 +11,9 @@ import (
 	"time"
 
 	"github.com/putdotio/go-putio/putio"
-	"github.com/rclone/rclone/fs"
-	"github.com/rclone/rclone/fs/fserrors"
-	"github.com/rclone/rclone/fs/hash"
+	"github.com/Youtch/rclone/fs"
+	"github.com/Youtch/rclone/fs/fserrors"
+	"github.com/Youtch/rclone/fs/hash"
 )
 
 // Object describes a Putio object

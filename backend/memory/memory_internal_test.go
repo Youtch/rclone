@@ -5,10 +5,10 @@ import (
 	"fmt"
 	"testing"
 
-	_ "github.com/rclone/rclone/backend/local"
-	"github.com/rclone/rclone/fs/operations"
-	"github.com/rclone/rclone/fstest"
-	"github.com/rclone/rclone/fstest/fstests"
+	_ "github.com/Youtch/rclone/backend/local"
+	"github.com/Youtch/rclone/fs/operations"
+	"github.com/Youtch/rclone/fstest"
+	"github.com/Youtch/rclone/fstest/fstests"
 	"github.com/stretchr/testify/require"
 )
 

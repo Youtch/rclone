@@ -16,11 +16,11 @@ import (
 	krb "github.com/jcmturner/gokrb5/v8/client"
 	"github.com/jcmturner/gokrb5/v8/config"
 	"github.com/jcmturner/gokrb5/v8/credentials"
-	"github.com/rclone/rclone/fs"
-	"github.com/rclone/rclone/fs/config/configmap"
-	"github.com/rclone/rclone/fs/config/configstruct"
-	"github.com/rclone/rclone/fs/hash"
-	"github.com/rclone/rclone/lib/pacer"
+	"github.com/Youtch/rclone/fs"
+	"github.com/Youtch/rclone/fs/config/configmap"
+	"github.com/Youtch/rclone/fs/config/configstruct"
+	"github.com/Youtch/rclone/fs/hash"
+	"github.com/Youtch/rclone/lib/pacer"
 )
 
 // Fs represents a HDFS server

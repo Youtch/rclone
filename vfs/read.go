@@ -10,10 +10,10 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/rclone/rclone/fs"
-	"github.com/rclone/rclone/fs/accounting"
-	"github.com/rclone/rclone/fs/chunkedreader"
-	"github.com/rclone/rclone/fs/hash"
+	"github.com/Youtch/rclone/fs"
+	"github.com/Youtch/rclone/fs/accounting"
+	"github.com/Youtch/rclone/fs/chunkedreader"
+	"github.com/Youtch/rclone/fs/hash"
 )
 
 // ReadFileHandle is an open for read file handle on a File

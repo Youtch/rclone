@@ -15,9 +15,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/rclone/rclone/fs"
-	"github.com/rclone/rclone/fs/accounting"
-	"github.com/rclone/rclone/lib/structs"
+	"github.com/Youtch/rclone/fs"
+	"github.com/Youtch/rclone/fs/accounting"
+	"github.com/Youtch/rclone/lib/structs"
 	"golang.org/x/net/publicsuffix"
 )
 

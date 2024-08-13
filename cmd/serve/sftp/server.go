@@ -21,14 +21,14 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/rclone/rclone/cmd/serve/proxy"
-	"github.com/rclone/rclone/cmd/serve/proxy/proxyflags"
-	"github.com/rclone/rclone/fs"
-	"github.com/rclone/rclone/fs/config"
-	"github.com/rclone/rclone/lib/env"
-	"github.com/rclone/rclone/lib/file"
-	"github.com/rclone/rclone/vfs"
-	"github.com/rclone/rclone/vfs/vfscommon"
+	"github.com/Youtch/rclone/cmd/serve/proxy"
+	"github.com/Youtch/rclone/cmd/serve/proxy/proxyflags"
+	"github.com/Youtch/rclone/fs"
+	"github.com/Youtch/rclone/fs/config"
+	"github.com/Youtch/rclone/lib/env"
+	"github.com/Youtch/rclone/lib/file"
+	"github.com/Youtch/rclone/vfs"
+	"github.com/Youtch/rclone/vfs/vfscommon"
 	"golang.org/x/crypto/ssh"
 )
 

@@ -4,8 +4,8 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/rclone/rclone/fs"
-	"github.com/rclone/rclone/fs/config/configmap"
+	"github.com/Youtch/rclone/fs"
+	"github.com/Youtch/rclone/fs/config/configmap"
 )
 
 // Authorize is for remote authorization of headless machines.

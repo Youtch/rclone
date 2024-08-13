@@ -15,12 +15,12 @@ import (
 	"strings"
 	"time"
 
-	"github.com/rclone/rclone/cmd/bisync/bilib"
-	"github.com/rclone/rclone/fs"
-	"github.com/rclone/rclone/fs/accounting"
-	"github.com/rclone/rclone/fs/filter"
-	"github.com/rclone/rclone/fs/hash"
-	"github.com/rclone/rclone/fs/operations"
+	"github.com/Youtch/rclone/cmd/bisync/bilib"
+	"github.com/Youtch/rclone/fs"
+	"github.com/Youtch/rclone/fs/accounting"
+	"github.com/Youtch/rclone/fs/filter"
+	"github.com/Youtch/rclone/fs/hash"
+	"github.com/Youtch/rclone/fs/operations"
 	"golang.org/x/exp/slices"
 )
 

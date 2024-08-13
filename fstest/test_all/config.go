@@ -8,7 +8,7 @@ import (
 	"os"
 	"path"
 
-	"github.com/rclone/rclone/fs"
+	"github.com/Youtch/rclone/fs"
 	yaml "gopkg.in/yaml.v2"
 )
 

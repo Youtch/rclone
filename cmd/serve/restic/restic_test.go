@@ -12,10 +12,10 @@ import (
 	"os/exec"
 	"testing"
 
-	_ "github.com/rclone/rclone/backend/all"
-	"github.com/rclone/rclone/cmd"
-	"github.com/rclone/rclone/fs"
-	"github.com/rclone/rclone/fstest"
+	_ "github.com/Youtch/rclone/backend/all"
+	"github.com/Youtch/rclone/cmd"
+	"github.com/Youtch/rclone/fs"
+	"github.com/Youtch/rclone/fstest"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

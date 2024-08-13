@@ -2,10 +2,10 @@
 package logger
 
 import (
-	_ "github.com/rclone/rclone/backend/all" // import all backends
-	"github.com/rclone/rclone/cmd"
-	_ "github.com/rclone/rclone/cmd/all"    // import all commands
-	_ "github.com/rclone/rclone/lib/plugin" // import plugins
+	_ "github.com/Youtch/rclone/backend/all" // import all backends
+	"github.com/Youtch/rclone/cmd"
+	_ "github.com/Youtch/rclone/cmd/all"    // import all commands
+	_ "github.com/Youtch/rclone/lib/plugin" // import plugins
 )
 
 // Main enables the testscript package. See:

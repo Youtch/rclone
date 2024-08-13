@@ -10,9 +10,9 @@ import (
 	"time"
 
 	"github.com/colinmarc/hdfs/v2"
-	"github.com/rclone/rclone/fs"
-	"github.com/rclone/rclone/fs/hash"
-	"github.com/rclone/rclone/lib/readers"
+	"github.com/Youtch/rclone/fs"
+	"github.com/Youtch/rclone/fs/hash"
+	"github.com/Youtch/rclone/lib/readers"
 )
 
 // Object describes an HDFS file

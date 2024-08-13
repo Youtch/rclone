@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/rclone/rclone/fstest/testy"
+	"github.com/Youtch/rclone/fstest/testy"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -9,11 +9,11 @@ import (
 	"strings"
 	"time"
 
-	"github.com/rclone/rclone/backend/onedrive/api"
-	"github.com/rclone/rclone/fs"
-	"github.com/rclone/rclone/fs/fserrors"
-	"github.com/rclone/rclone/lib/dircache"
-	"github.com/rclone/rclone/lib/errcount"
+	"github.com/Youtch/rclone/backend/onedrive/api"
+	"github.com/Youtch/rclone/fs"
+	"github.com/Youtch/rclone/fs/fserrors"
+	"github.com/Youtch/rclone/lib/dircache"
+	"github.com/Youtch/rclone/lib/errcount"
 	"golang.org/x/exp/slices" // replace with slices after go1.21 is the minimum version
 )
 

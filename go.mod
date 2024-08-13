@@ -1,4 +1,4 @@
-module github.com/rclone/rclone
+module github.com/Youtch/rclone
 
 go 1.21
 

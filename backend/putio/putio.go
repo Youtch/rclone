@@ -6,13 +6,13 @@ import (
 	"regexp"
 	"time"
 
-	"github.com/rclone/rclone/fs"
-	"github.com/rclone/rclone/fs/config"
-	"github.com/rclone/rclone/fs/config/configmap"
-	"github.com/rclone/rclone/fs/config/obscure"
-	"github.com/rclone/rclone/lib/dircache"
-	"github.com/rclone/rclone/lib/encoder"
-	"github.com/rclone/rclone/lib/oauthutil"
+	"github.com/Youtch/rclone/fs"
+	"github.com/Youtch/rclone/fs/config"
+	"github.com/Youtch/rclone/fs/config/configmap"
+	"github.com/Youtch/rclone/fs/config/obscure"
+	"github.com/Youtch/rclone/lib/dircache"
+	"github.com/Youtch/rclone/lib/encoder"
+	"github.com/Youtch/rclone/lib/oauthutil"
 	"golang.org/x/oauth2"
 )
 

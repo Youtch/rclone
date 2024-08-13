@@ -7,8 +7,8 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/rclone/rclone/fs"
-	"github.com/rclone/rclone/fs/hash"
+	"github.com/Youtch/rclone/fs"
+	"github.com/Youtch/rclone/fs/hash"
 	"github.com/spf13/pflag"
 )
 

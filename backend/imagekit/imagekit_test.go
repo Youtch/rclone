@@ -3,8 +3,8 @@ package imagekit
 import (
 	"testing"
 
-	"github.com/rclone/rclone/fstest"
-	"github.com/rclone/rclone/fstest/fstests"
+	"github.com/Youtch/rclone/fstest"
+	"github.com/Youtch/rclone/fstest/fstests"
 )
 
 func TestIntegration(t *testing.T) {

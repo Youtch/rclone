@@ -17,21 +17,21 @@ import (
 	"testing"
 	"time"
 
-	"github.com/rclone/rclone/cmd/mountlib"
-	"github.com/rclone/rclone/cmd/serve/docker"
-	"github.com/rclone/rclone/fs"
-	"github.com/rclone/rclone/fs/config"
-	"github.com/rclone/rclone/fstest"
-	"github.com/rclone/rclone/fstest/testy"
-	"github.com/rclone/rclone/lib/file"
+	"github.com/Youtch/rclone/cmd/mountlib"
+	"github.com/Youtch/rclone/cmd/serve/docker"
+	"github.com/Youtch/rclone/fs"
+	"github.com/Youtch/rclone/fs/config"
+	"github.com/Youtch/rclone/fstest"
+	"github.com/Youtch/rclone/fstest/testy"
+	"github.com/Youtch/rclone/lib/file"
 
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	_ "github.com/rclone/rclone/backend/local"
-	_ "github.com/rclone/rclone/backend/memory"
-	_ "github.com/rclone/rclone/cmd/cmount"
-	_ "github.com/rclone/rclone/cmd/mount"
+	_ "github.com/Youtch/rclone/backend/local"
+	_ "github.com/Youtch/rclone/backend/memory"
+	_ "github.com/Youtch/rclone/cmd/cmount"
+	_ "github.com/Youtch/rclone/cmd/mount"
 )
 
 func initialise(ctx context.Context, t *testing.T) (string, fs.Fs) {

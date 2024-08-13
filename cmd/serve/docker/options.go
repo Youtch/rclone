@@ -4,12 +4,12 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/rclone/rclone/cmd/mountlib"
-	"github.com/rclone/rclone/fs"
-	"github.com/rclone/rclone/fs/config/configmap"
-	"github.com/rclone/rclone/fs/fspath"
-	"github.com/rclone/rclone/fs/rc"
-	"github.com/rclone/rclone/vfs/vfscommon"
+	"github.com/Youtch/rclone/cmd/mountlib"
+	"github.com/Youtch/rclone/fs"
+	"github.com/Youtch/rclone/fs/config/configmap"
+	"github.com/Youtch/rclone/fs/fspath"
+	"github.com/Youtch/rclone/fs/rc"
+	"github.com/Youtch/rclone/vfs/vfscommon"
 
 	"github.com/spf13/pflag"
 )

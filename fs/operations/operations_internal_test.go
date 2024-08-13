@@ -8,8 +8,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/rclone/rclone/fs"
-	"github.com/rclone/rclone/fs/object"
+	"github.com/Youtch/rclone/fs"
+	"github.com/Youtch/rclone/fs/object"
 	"github.com/stretchr/testify/assert"
 )
 

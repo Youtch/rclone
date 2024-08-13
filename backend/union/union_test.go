@@ -4,11 +4,11 @@ package union_test
 import (
 	"testing"
 
-	_ "github.com/rclone/rclone/backend/local"
-	_ "github.com/rclone/rclone/backend/memory"
-	"github.com/rclone/rclone/backend/union"
-	"github.com/rclone/rclone/fstest"
-	"github.com/rclone/rclone/fstest/fstests"
+	_ "github.com/Youtch/rclone/backend/local"
+	_ "github.com/Youtch/rclone/backend/memory"
+	"github.com/Youtch/rclone/backend/union"
+	"github.com/Youtch/rclone/fstest"
+	"github.com/Youtch/rclone/fstest/fstests"
 )
 
 var (

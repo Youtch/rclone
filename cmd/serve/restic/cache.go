@@ -4,7 +4,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/rclone/rclone/fs"
+	"github.com/Youtch/rclone/fs"
 )
 
 // cache implements a simple object cache

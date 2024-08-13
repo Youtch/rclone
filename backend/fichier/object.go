@@ -8,9 +8,9 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/rclone/rclone/fs"
-	"github.com/rclone/rclone/fs/hash"
-	"github.com/rclone/rclone/lib/rest"
+	"github.com/Youtch/rclone/fs"
+	"github.com/Youtch/rclone/fs/hash"
+	"github.com/Youtch/rclone/lib/rest"
 )
 
 // Object is a filesystem like object provided by an Fs

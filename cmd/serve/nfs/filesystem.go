@@ -9,9 +9,9 @@ import (
 	"time"
 
 	billy "github.com/go-git/go-billy/v5"
-	"github.com/rclone/rclone/fs"
-	"github.com/rclone/rclone/vfs"
-	"github.com/rclone/rclone/vfs/vfscommon"
+	"github.com/Youtch/rclone/fs"
+	"github.com/Youtch/rclone/vfs"
+	"github.com/Youtch/rclone/vfs/vfscommon"
 )
 
 // FS is our wrapper around the VFS to properly support billy.Filesystem interface

@@ -7,12 +7,12 @@ import (
 	"io"
 	"os"
 
-	"github.com/rclone/rclone/cmd"
-	"github.com/rclone/rclone/cmd/ls/lshelp"
-	"github.com/rclone/rclone/fs"
-	"github.com/rclone/rclone/fs/config/flags"
-	"github.com/rclone/rclone/fs/hash"
-	"github.com/rclone/rclone/fs/operations"
+	"github.com/Youtch/rclone/cmd"
+	"github.com/Youtch/rclone/cmd/ls/lshelp"
+	"github.com/Youtch/rclone/fs"
+	"github.com/Youtch/rclone/fs/config/flags"
+	"github.com/Youtch/rclone/fs/hash"
+	"github.com/Youtch/rclone/fs/operations"
 	"github.com/spf13/cobra"
 )
 

@@ -12,8 +12,8 @@ import (
 
 	"github.com/ncw/swift/v2"
 	"github.com/rclone/gofakes3"
-	"github.com/rclone/rclone/fs"
-	"github.com/rclone/rclone/vfs"
+	"github.com/Youtch/rclone/fs"
+	"github.com/Youtch/rclone/vfs"
 )
 
 var (

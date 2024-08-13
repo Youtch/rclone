@@ -11,10 +11,10 @@ import (
 	"testing"
 	"time"
 
-	_ "github.com/rclone/rclone/backend/all" // import all the backends
-	"github.com/rclone/rclone/fs"
-	"github.com/rclone/rclone/fstest"
-	"github.com/rclone/rclone/vfs/vfscommon"
+	_ "github.com/Youtch/rclone/backend/all" // import all the backends
+	"github.com/Youtch/rclone/fs"
+	"github.com/Youtch/rclone/fstest"
+	"github.com/Youtch/rclone/vfs/vfscommon"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

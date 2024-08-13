@@ -11,7 +11,7 @@ import (
 	"io"
 	"time"
 
-	"github.com/rclone/rclone/lib/readers"
+	"github.com/Youtch/rclone/lib/readers"
 )
 
 // protocol errors

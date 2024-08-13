@@ -34,13 +34,13 @@ import (
 	"time"
 
 	"github.com/go-git/go-billy/v5"
-	"github.com/rclone/rclone/fs"
-	"github.com/rclone/rclone/fs/cache"
-	"github.com/rclone/rclone/fs/log"
-	"github.com/rclone/rclone/fs/rc"
-	"github.com/rclone/rclone/fs/walk"
-	"github.com/rclone/rclone/vfs/vfscache"
-	"github.com/rclone/rclone/vfs/vfscommon"
+	"github.com/Youtch/rclone/fs"
+	"github.com/Youtch/rclone/fs/cache"
+	"github.com/Youtch/rclone/fs/log"
+	"github.com/Youtch/rclone/fs/rc"
+	"github.com/Youtch/rclone/fs/walk"
+	"github.com/Youtch/rclone/vfs/vfscache"
+	"github.com/Youtch/rclone/vfs/vfscommon"
 )
 
 //go:embed vfs.md

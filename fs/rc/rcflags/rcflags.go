@@ -2,8 +2,8 @@
 package rcflags
 
 import (
-	"github.com/rclone/rclone/fs/config/flags"
-	"github.com/rclone/rclone/fs/rc"
+	"github.com/Youtch/rclone/fs/config/flags"
+	"github.com/Youtch/rclone/fs/rc"
 	"github.com/spf13/pflag"
 )
 

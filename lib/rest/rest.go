@@ -16,8 +16,8 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/rclone/rclone/fs"
-	"github.com/rclone/rclone/lib/readers"
+	"github.com/Youtch/rclone/fs"
+	"github.com/Youtch/rclone/lib/readers"
 )
 
 // Client contains the info to sustain the API

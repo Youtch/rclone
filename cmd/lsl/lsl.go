@@ -5,9 +5,9 @@ import (
 	"context"
 	"os"
 
-	"github.com/rclone/rclone/cmd"
-	"github.com/rclone/rclone/cmd/ls/lshelp"
-	"github.com/rclone/rclone/fs/operations"
+	"github.com/Youtch/rclone/cmd"
+	"github.com/Youtch/rclone/cmd/ls/lshelp"
+	"github.com/Youtch/rclone/fs/operations"
 	"github.com/spf13/cobra"
 )
 

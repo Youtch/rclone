@@ -8,8 +8,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/rclone/rclone/fs"
-	"github.com/rclone/rclone/fs/walk"
+	"github.com/Youtch/rclone/fs"
+	"github.com/Youtch/rclone/fs/walk"
 )
 
 // Dir represents a directory found in the remote

@@ -7,8 +7,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/rclone/rclone/fs"
-	"github.com/rclone/rclone/fs/rc"
+	"github.com/Youtch/rclone/fs"
+	"github.com/Youtch/rclone/fs/rc"
 	"golang.org/x/time/rate"
 )
 

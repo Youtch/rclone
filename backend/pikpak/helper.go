@@ -16,9 +16,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/rclone/rclone/backend/pikpak/api"
-	"github.com/rclone/rclone/fs"
-	"github.com/rclone/rclone/lib/rest"
+	"github.com/Youtch/rclone/backend/pikpak/api"
+	"github.com/Youtch/rclone/fs"
+	"github.com/Youtch/rclone/lib/rest"
 )
 
 // Globals

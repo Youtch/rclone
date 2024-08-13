@@ -10,7 +10,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/rclone/rclone/fs"
+	"github.com/Youtch/rclone/fs"
 	"golang.org/x/sync/errgroup"
 )
 

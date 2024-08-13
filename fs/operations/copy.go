@@ -14,13 +14,13 @@ import (
 	"time"
 	"unicode/utf8"
 
-	"github.com/rclone/rclone/fs"
-	"github.com/rclone/rclone/fs/accounting"
-	"github.com/rclone/rclone/fs/fserrors"
-	"github.com/rclone/rclone/fs/hash"
-	"github.com/rclone/rclone/lib/atexit"
-	"github.com/rclone/rclone/lib/pacer"
-	"github.com/rclone/rclone/lib/random"
+	"github.com/Youtch/rclone/fs"
+	"github.com/Youtch/rclone/fs/accounting"
+	"github.com/Youtch/rclone/fs/fserrors"
+	"github.com/Youtch/rclone/fs/hash"
+	"github.com/Youtch/rclone/lib/atexit"
+	"github.com/Youtch/rclone/lib/pacer"
+	"github.com/Youtch/rclone/lib/random"
 )
 
 // State of the copy

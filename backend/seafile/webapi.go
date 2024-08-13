@@ -11,10 +11,10 @@ import (
 	"path"
 	"strings"
 
-	"github.com/rclone/rclone/backend/seafile/api"
-	"github.com/rclone/rclone/fs"
-	"github.com/rclone/rclone/lib/readers"
-	"github.com/rclone/rclone/lib/rest"
+	"github.com/Youtch/rclone/backend/seafile/api"
+	"github.com/Youtch/rclone/fs"
+	"github.com/Youtch/rclone/lib/readers"
+	"github.com/Youtch/rclone/lib/rest"
 )
 
 // Start of the API URLs

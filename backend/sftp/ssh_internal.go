@@ -7,9 +7,9 @@ import (
 	"io"
 	"net"
 
-	"github.com/rclone/rclone/fs"
-	"github.com/rclone/rclone/fs/fshttp"
-	"github.com/rclone/rclone/lib/proxy"
+	"github.com/Youtch/rclone/fs"
+	"github.com/Youtch/rclone/fs/fshttp"
+	"github.com/Youtch/rclone/lib/proxy"
 	"golang.org/x/crypto/ssh"
 )
 

@@ -5,8 +5,8 @@ package oracleobjectstorage
 import (
 	"testing"
 
-	"github.com/rclone/rclone/fs"
-	"github.com/rclone/rclone/fstest/fstests"
+	"github.com/Youtch/rclone/fs"
+	"github.com/Youtch/rclone/fstest/fstests"
 )
 
 // TestIntegration runs integration tests against the remote

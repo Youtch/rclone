@@ -10,10 +10,10 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/rclone/rclone/fs"
-	"github.com/rclone/rclone/fs/log"
-	"github.com/rclone/rclone/fs/operations"
-	"github.com/rclone/rclone/vfs/vfscommon"
+	"github.com/Youtch/rclone/fs"
+	"github.com/Youtch/rclone/fs/log"
+	"github.com/Youtch/rclone/fs/operations"
+	"github.com/Youtch/rclone/vfs/vfscommon"
 )
 
 // The File object is tightly coupled to the Dir object. Since they

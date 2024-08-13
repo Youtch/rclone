@@ -5,9 +5,9 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/rclone/rclone/cmd"
-	"github.com/rclone/rclone/fs"
-	"github.com/rclone/rclone/fs/operations"
+	"github.com/Youtch/rclone/cmd"
+	"github.com/Youtch/rclone/fs"
+	"github.com/Youtch/rclone/fs/operations"
 	"github.com/spf13/cobra"
 )
 
