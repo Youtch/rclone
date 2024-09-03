@@ -139,7 +139,7 @@ func CheckVersion(ctx context.Context) {
 			fmt.Printf("  upgrade: %s\n", url+vs)
 		}
 	}
-	fmt.Printf("L'actuelle :  %-13s\n", vCurrent)
+	fmt.Printf("Courante :  %-13s\n", vCurrent)
 	printVersion(
 		"Plus récent",
 		"https://downloads.rclone.org/",
